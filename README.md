@@ -5,8 +5,6 @@
 Me chamo Rayanne, sou graduada em Engenharia Química, mas atualmente estou estudando para me tornar uma desenvolvedora web. <br>
 Fiquei fascinada pelo front-end no meu primeiro Hello Word e desde então venho estudando para evoluir cada vez mais.
 
-📍   João Pessoa, PB - Brasil <br>
-
 
 
  ## Tecnologias que possuo conhecimento 🛠 👩‍💻
